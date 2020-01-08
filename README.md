@@ -1,4 +1,4 @@
-# ReactJS Markdown Previewer
+# ReactJS Drum Machine - FCC
 
 This project is part of [freeCodeCamp](https://www.freecodecamp.org/) Front End Libraries curriculum.
 

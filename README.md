@@ -5,6 +5,10 @@ This project is part of [freeCodeCamp](https://www.freecodecamp.org/) Front End 
 ## View project
 https://milosrancic.github.io/reactjs-drum-machine
 
+### Screenshot 
+
+[![Drum-Machine.png](https://i.postimg.cc/k5bPjHpY/Drum-Machine.png)](https://postimg.cc/nspWr3Zq)
+
 ### Technologies
 HTML5, CSS3, JavaScript, ReactJS
 
